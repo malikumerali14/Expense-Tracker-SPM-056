@@ -10,3 +10,5 @@ The Expense Tracker is a web-based financial management tool designed to help us
 * **Analytics & Reports:** A simple dashboard displaying charts of monthly spending breakdowns.
 
 ## System Architecture / User Flow Diagram
+<img width="2047" height="763" alt="Workflow Diagram" src="https://github.com/user-attachments/assets/6ed5c549-fbba-4d95-bc58-1b020b8424ff" />
+
